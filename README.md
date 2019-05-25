@@ -22,7 +22,7 @@ Slice one-page-in-memory raw sample:
 ```sh
 wnb-slicer.exe -file-name samples/doc_who_themev2_01.raw
 ```
-Non-common case if two-pages-in-memory samples used:
+Slice two-pages-in-memory raw sample (still in WIP state):
 ```sh
 wnb-slicer.exe -max-chunk-size -file-name samples/doc_who_themev4_full.raw
 ```
