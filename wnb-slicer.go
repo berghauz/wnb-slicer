@@ -14,8 +14,8 @@ func main() {
 
 	var (
 		fSize          uint
-		maxChunkSize32 uint = /*32768*/32000
-		maxChunkSize64 uint = /*65536*/64000
+		maxChunkSize32 uint = (0xFFFF/2)-1
+		maxChunkSize64 uint = 0xFFFF-1
 		chunkSizeFlag  *bool
 		fileName       *string
 		chunks         uint

@@ -2,7 +2,7 @@
 
 wnb-slicer is a tool that addressed to help in custom sound preparation process for your Ninebot Zxx series EUC.
 Before use it you should prepare sound samples which meet the following requirements:
-  - the file size is not bigger than 32700 bytes, multiple sequenced sounds still not supported if it is not fit in standard EUC sound mapping scheme
+  - the file size is not bigger than 32766 bytes, multiple sequenced sounds still not supported if it is not fit in standard EUC sound mapping scheme
   - sound should be encoded as 16000Hz sample rate and signed 16bit PCM
   - one second of 16Khz/16bit give us 32000 bytes of data, it is common Ninebot Zxx sounds duration (except warning sounds, it could be 2 seconds long)
   - Magic
