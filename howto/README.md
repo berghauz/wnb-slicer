@@ -34,7 +34,7 @@
 
 Last step is on [electrotransport.ru](https://electrotransport.ru/ussr/index.php?topic=58686.0)
 
-#### Finally - the result is (shitty sample - shitty sound, very quiet)
-[![video](https://img.youtube.com/vi/XlDKFYOXgcY/0.jpg)](https://www.youtube.com/watch?v=XlDKFYOXgcY)
+#### Finally - [the result is](https://www.youtube.com/watch?v=XlDKFYOXgcY) (shitty sample - shitty sound, very quiet)
+
 
 
