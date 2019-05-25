@@ -27,6 +27,6 @@ Slice two-pages-in-memory raw sample (still in WIP state):
 wnb-slicer.exe -max-chunk-size -file-name samples/doc_who_themev4_full.raw
 ```
 
-# How to prepare sound with audacity
+# How to prepare sounds with audacity
 
 Check it [here](https://github.com/berghauz/wnb-slicer/howto/)
